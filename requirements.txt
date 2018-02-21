@@ -1,0 +1,15 @@
+certifi==2018.1.18
+chardet==3.0.4
+dj-database-url==0.4.2
+dj-static==0.0.6
+Django==1.10
+django-toolbelt==0.0.1
+gunicorn==19.7.1
+heroku==0.1.4
+idna==2.6
+psycopg2==2.7.4
+python-dateutil==1.5
+requests==2.18.4
+static3==0.7.0
+stripe==1.77.2
+urllib3==1.22
